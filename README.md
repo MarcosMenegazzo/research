@@ -6,6 +6,9 @@ Studies and researches about how to develop certain applications
 
 ## Basics
 
+- [Main site](https://kotlinlang.org)
+- [Language reference](https://kotlinlang.org/docs/reference/)
+
 ## Persistence
 
 - [Exposed ORM](https://github.com/JetBrains/Exposed)
@@ -29,4 +32,5 @@ Studies and researches about how to develop certain applications
 # Misc
 
 - Collaborators: keep a logical sequence of links, to create a good learning path
-- [Helps choosing a good license for Open Source code](https://choosealicense.com) 
+- [Helps choosing a good license for Open Source code](https://choosealicense.com)
+- [Null Pointer References: The Billion Dollar Mistake](https://medium.com/@hinchman_amanda/null-pointer-references-the-billion-dollar-mistake-1e616534d485)
